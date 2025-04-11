@@ -20,8 +20,6 @@ Esta aplicação web simples foi desenvolvida com HTML, CSS e JavaScript puro pa
 
 Você pode ver a aplicação em funcionamento [aqui](https://mgosalan-dev.github.io/horas-do-dia/).
 
-![Preview da aplicação](https://via.placeholder.com/600x300)
-
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
